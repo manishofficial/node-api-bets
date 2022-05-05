@@ -1,7 +1,7 @@
 # node-api-bets
 
-##Install Package##
+##Install Package
 npm install
 
-##Run Applicaiton##
+##Run Applicaiton
 npm start
